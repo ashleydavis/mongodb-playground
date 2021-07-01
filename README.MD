@@ -1,5 +1,7 @@
 # mongodb-playground
 
+**NOTE:** I don't use this anymore. These days I use [Mongodb-toolbox](https://github.com/ashleydavis/mongodb-toolbox).
+
 A Vagrant virtual machine that installs MongoDB for testing and experimentation.
 
 You need Vagrant and VirtualBox installed to use this.
